@@ -217,7 +217,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)** - AI-powered GitHub Pull Request code review using MiniMax models.
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 - **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
-- **[UIZZE](https://uizze.com/)** – Stop generic UI before it ships. The free MIT `anti-ui-slop` Skill gives coding agents a product-specific design contract, required loading/empty/error states, and a hard finish gate. The optional full UIZZE workflow adds no-account preview checks, live search, validation, audits, and rendered critique across 800,000+ real web and iOS screens.
+- **[UIZZE](https://uizze.com/)** – Stop generic UI before it ships. The free MIT `anti-ui-slop` Skill gives coding agents a product-specific design contract, required loading/empty/error states, and a hard finish gate. The optional authenticated MCP provides `find_ui_references` and `find_ui_materials` over 800,000+ real web and iOS screens.
 
 ---
 
